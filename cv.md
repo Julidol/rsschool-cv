@@ -4,14 +4,14 @@
 
 * Phone: +7(904) 441-02-53
 * E-mail: kaomo@yandex.ru
-* Telegram: https://t.me/Julidol82
+* Telegram: <https://t.me/Julidol82>
 * [Github](https://github.com/Julidol)
 * Location: Rostov-on-Don, Russia
 
 ---
 ## About me
 I'm currently working in a government company as an administrative worker, but I have always been interested in front-end. Also I'm always fascinating about design, illustration and how it can work for consumer behavior.
-My strengths are self-development intention, interest in learning and attention to detail. I would prefer to work in team.
+My strengths are self-development intention, interest in learning and attention to details. I would prefer to work in team.
 
 ---
 
@@ -54,9 +54,9 @@ print(get_days(num))
 
 - English - Intermediate, B1 - Cembridge Preliminary (PET) 2021
 
-![Cambridge Assesment](/rsschool-cv/ca_logo.png)
+    ![Cambridge Assesment](/rsschool-cv/ca_logo.png)
 
-    - B2 - in progress
+    - B2 - in progress (i'm taking speaking classes twice a week)
 - Russian 
 
 
