@@ -52,10 +52,12 @@ print(get_days(num))
 ---
 ## Languages
 
-* English - Intermediate, B1 - Cembridge Preliminary (PET) 2021
-![Cambridge Assesmenrt](rsschool-cv\ca_logo.png)
-	+ B2 - in progress
-* Russian 
+- English - Intermediate, B1 - Cembridge Preliminary (PET) 2021
+
+![Cambridge Assesment](/rsschool-cv/ca_logo.png)
+
+    - B2 - in progress
+- Russian 
 
 
 
