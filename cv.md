@@ -4,7 +4,7 @@
 
 * Phone: +7(904) 441-02-53
 * E-mail: kaomo@yandex.ru
-* Telegram: <https://t.me/Julidol82>
+* [Telegram](https://t.me/Julidol82)
 * [Github](https://github.com/Julidol)
 * Location: Rostov-on-Don, Russia
 
@@ -52,9 +52,7 @@ print(get_days(num))
 ---
 ## Languages
 
-- English - Intermediate, B1 - Cembridge Preliminary (PET) 2021
-
-    ![Cambridge Assesment](/rsschool-cv/ca_logo.png)
+- English - Intermediate, B1 - Cembridge Preliminary (PET) 2021 ![Cambridge Assesment](/rsschool-cv/ca_logo.png)
 
     - B2 - in progress (i'm taking speaking classes twice a week)
 - Russian 
