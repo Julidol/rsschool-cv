@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Julidol.github.io/rsschool-cv/cv
